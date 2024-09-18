@@ -6,8 +6,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="![screenie](https://github.com/user-attachments/assets/5e6f3471-a00a-477c-bb23-df6ece660dba)
-" alt="project-screenshot" width="400" height="400/">
+<img src="https://github.com/user-attachments/assets/5e6f3471-a00a-477c-bb23-df6ece660dba" alt="project-screenshot" width="400" height="400/">
 
   
   
