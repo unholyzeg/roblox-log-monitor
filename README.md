@@ -4,7 +4,7 @@
 
 <p align="center"><img src="https://img.shields.io/badge/language-python-blue" alt="shields"><img src="https://img.shields.io/badge/deployment-passing-green" alt="shields"><img src="https://img.shields.io/badge/sexy-hell_yea-pink" alt="shields"></p>
 
-<h2>Project Screenshots:</h2>
+<h2>Project Screenshot:</h2>
 
 <img src="https://github.com/user-attachments/assets/5e6f3471-a00a-477c-bb23-df6ece660dba" alt="project-screenshot" width="400" height="400/">
 
